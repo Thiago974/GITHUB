@@ -216,3 +216,9 @@ header a{
         border-radius: 0;
     }
 }
+
+@media(min-width:800px) {
+    main{
+        flex-direction: column;
+    }
+}
